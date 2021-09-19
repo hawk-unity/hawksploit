@@ -1,14 +1,10 @@
 # hawksploit
 HAWK SPLOİT TOOL
-<code><i><h4>mesaj: 
+<i><h4>mesaj: 
  - ddos , syn-ack , subdomain arama , whatweb eklemesi 
  - urlcrazy yazısındaki hata düzeltildi 
  - bir kaç hata daha düzeltildi 
  İYİ KULLANIMLAR
- ____________
- ____________
- ____________
- ____________
  ____________
  ____________
  </code></i></h4>
