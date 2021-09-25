@@ -1,0 +1,5 @@
+figlet " HAWK SPLOİT "
+cd /usr/share/
+git clone https://github.com/hawk-unity/hawksploit/
+cd hawksploit
+python3 hawksploit.py
