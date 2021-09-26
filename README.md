@@ -25,4 +25,5 @@ HAWK SPLOİT TOOL
  - sudo  bash sp.sh
   <br>hawksploit </br>
   <br> -python3 hackingtools.py </br>
+ <br>terminal kısmına hawksploit yazsan yeter yada :) </br>
   ve arkanıza yaslanın izleyin :) </h3></i>
